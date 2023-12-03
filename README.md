@@ -1,12 +1,12 @@
 # AOC could mean
-Aliens order cake
-Algorithmic octagon construction
-Astronomical observers club
-Aroma of citrus
-Astronaut overture chamber
-Apex of creation
-Awkardly on cruise
-Atrium on caffeine
+Aliens order cake <br>
+Algorithmic octagon construction<br>
+Astronomical observers club<br>
+Aroma of citrus<br>
+Astronaut overture chamber<br>
+Apex of creation<br>
+Awkardly on cruise<br>
+Atrium on caffeine<br>
 
 ## But it means advent of code.
 ### 2023.
