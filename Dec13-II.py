@@ -12,7 +12,7 @@ def score(mode):
             Z += sixtynine*(x+1); M += 1
     return Z, M
 
-def smudge_score(): # cuz return is the ultimate break
+def smudge_score(): # python goto when
     oldS00, oldS10, m, n =  score(0)[0], score(1)[0], L.shape[0], L.shape[1]
     for i in range(m):
         for j in range(n):
