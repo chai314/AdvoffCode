@@ -2,9 +2,7 @@
 ## Highlights
 Dec10-II: Best solve this month, but *brilliant* lmao. Abstruse to the point that its contemplation is an assault on sanity. Actual lovecraftian magicks <br>
 Dec7-I,II: Miniature solutions, or, unequivocal proof that python>>><br>
-Dec5-II
-> "Mou, kotoba wa iranai" - Aoi Todo, S1E16
-
+Dec5-II: *words, words aren't needed*<br>
 Dec6-I:    *Fun*ctional solve<br>
 Dec16-II:   Recursive solve<br>
 Dec14-II:   Heuristic (read: jugaad) solve<br>
@@ -14,7 +12,6 @@ Dec14-I: Sure looked alien when I commented that. Hope it's weirder once I forge
 Dec3-II: what <br>
 Dec4-I: aaa<br>
 Dec4-II: "six = 208"<br>
-Lovejoy reference <br>
 Stepsys I'm stuck <br>
 All the sixtynines (5.2,11.1,13,14.2), and that one sixtyeight<br><br>
 
